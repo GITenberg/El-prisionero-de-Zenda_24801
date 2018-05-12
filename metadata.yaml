@@ -1,0 +1,30 @@
+_repo: El-prisionero-de-Zenda_24801
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: ''
+gutenberg_issued: '2008-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24801'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Foreign countries -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Impostors and imposture -- Fiction'
+title: El prisionero de Zenda
+url: http://www.gutenberg.org/ebooks/24801
